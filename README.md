@@ -3,7 +3,7 @@
 - 该油猴脚本（理论上，没有实测）支持联通大部分互联网套餐网上选号，暂时只测试了米粉卡。
 
 ### 申请地址，注意是手机的申请页
-#####  [米粉卡]("https://m.10010.com/scaffold-show/mifanCard?channel=3000")
+##### [米粉卡]("https://m.10010.com/scaffold-show/mifanCard?channel=3000")
 其它待补充。。。
 ### 使用方式
 1，将该脚本内容(index.js)添加进Tampermonkey中
